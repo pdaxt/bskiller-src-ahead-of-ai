@@ -1,0 +1,60 @@
+{
+  "framework_version": "bsaf-v1.0",
+  "bs_score": 5.4,
+  "bs_rating": "Mixed Signals",
+  "scored_at": "2026-03-08 06:18:17",
+  "scoring_method": "heuristic",
+  "summary": "",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "dimensions": [
+    {
+      "dimension": "source_authority",
+      "name": "Source Authority",
+      "rationale": "Ahead of AI classified as tier_5 (unclassified or low-reliability source, reliability: 20%)",
+      "score": 1.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "evidence_quality",
+      "name": "Evidence Quality",
+      "rationale": "moderate credibility signals (5.0); contains data/benchmark references; references academic work; 11985 words (depth +1.5)",
+      "score": 9.0,
+      "weight": 0.2
+    },
+    {
+      "dimension": "reproducibility",
+      "name": "Reproducibility",
+      "rationale": "open source / code available; data availability mentioned; contains data tables/figures; proprietary/closed approach",
+      "score": 6.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "rationale": "includes counterarguments (balanced perspective)",
+      "score": 5.5,
+      "weight": 0.15
+    },
+    {
+      "dimension": "consensus",
+      "name": "Consensus",
+      "rationale": "very high hype (10.0/10) -- claim far ahead of consensus; 3 vague patterns suggest uncertain consensus; credible signals suggest external support; contains counterarguments (contested area)",
+      "score": 1.0,
+      "weight": 0.15
+    },
+    {
+      "dimension": "specificity",
+      "name": "Specificity",
+      "rationale": "3 vague patterns: up to , could be, might be; heavy hype language reduces specificity; contains specific technical signals; 3 percentage figures (highly specific); contains data tables/figures; long-form article (11985 words)",
+      "score": 6.0,
+      "weight": 0.1
+    },
+    {
+      "dimension": "track_record",
+      "name": "Track Record",
+      "rationale": "Ahead of AI: insufficient history to assess; 8 red flags detected (track record penalty: -3); 7 green flags detected (+2.0)",
+      "score": 1.0,
+      "weight": 0.1
+    }
+  ]
+}
