@@ -1,0 +1,1 @@
+A curated list of interesting LLM-related research papers from 2024, shared for those looking for something to read over the holidays.
