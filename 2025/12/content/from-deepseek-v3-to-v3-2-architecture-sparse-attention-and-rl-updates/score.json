@@ -2,6 +2,59 @@
   "framework_version": "bsaf-v1.0",
   "bs_score": 6.0,
   "bs_rating": "Mixed Signals",
-  "scored_at": "2026-03-25T14:25:28.151792+00:00",
-  "flagged_for_debate": false
+  "scored_at": "2026-03-25T14:32:10Z",
+  "scoring_method": "heuristic",
+  "career_angle": "LLM developments affect every developer. Understand the capabilities and limitations - knowing what AI can't do is as valuable as knowing what it can.",
+  "flagged_for_debate": false,
+  "dimensions": [
+    {
+      "id": "source_authority",
+      "name": "Source Authority",
+      "score": 1.5,
+      "weight": 0.15,
+      "rationale": "Ahead of AI classified as tier_5 (unclassified or low-reliability source, reliability: 20%)"
+    },
+    {
+      "id": "evidence_quality",
+      "name": "Evidence Quality",
+      "score": 9.0,
+      "weight": 0.2,
+      "rationale": "moderate credibility signals (5.0); contains data/benchmark references; references academic work; 5176 words (depth +1.5)"
+    },
+    {
+      "id": "reproducibility",
+      "name": "Reproducibility",
+      "score": 2.5,
+      "weight": 0.15,
+      "rationale": "data availability mentioned; contains data tables/figures; proprietary/closed approach"
+    },
+    {
+      "id": "conflict_of_interest",
+      "name": "Conflict of Interest",
+      "score": 5.5,
+      "weight": 0.15,
+      "rationale": "includes counterarguments (balanced perspective)"
+    },
+    {
+      "id": "consensus",
+      "name": "Consensus",
+      "score": 1.4,
+      "weight": 0.15,
+      "rationale": "very high hype (10.0/10) -- claim far ahead of consensus; 2 vague patterns suggest uncertain consensus; credible signals suggest external support; contains counterarguments (contested area)"
+    },
+    {
+      "id": "specificity",
+      "name": "Specificity",
+      "score": 5.0,
+      "weight": 0.1,
+      "rationale": "2 vague patterns: up to , might be; heavy hype language reduces specificity; contains specific technical signals; contains specific numbers/data; contains data tables/figures; long-form article (5176 words)"
+    },
+    {
+      "id": "track_record",
+      "name": "Track Record",
+      "score": 1.0,
+      "weight": 0.1,
+      "rationale": "Ahead of AI: insufficient history to assess; 5 red flags detected (track record penalty: -3); 6 green flags detected (+2.0)"
+    }
+  ]
 }
