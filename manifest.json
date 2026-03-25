@@ -1,1 +1,73 @@
-{"source_name":"Ahead Of Ai","repo":"bskiller-src-ahead-of-ai","story_count":39,"last_updated":"2026-03-25T07:40:09Z","months":["2026-03"]}
+{
+  "version": "1.0",
+  "source_name": "Ahead Of Ai",
+  "repo": "bskiller-src-ahead-of-ai",
+  "story_count": 19,
+  "last_updated": "2026-03-25T08:56:51Z",
+  "months": [
+    {
+      "month": "2026-03",
+      "story_count": 1
+    },
+    {
+      "month": "2026-02",
+      "story_count": 1
+    },
+    {
+      "month": "2026-01",
+      "story_count": 1
+    },
+    {
+      "month": "2025-12",
+      "story_count": 3
+    },
+    {
+      "month": "2025-11",
+      "story_count": 1
+    },
+    {
+      "month": "2025-10",
+      "story_count": 1
+    },
+    {
+      "month": "2025-09",
+      "story_count": 1
+    },
+    {
+      "month": "2025-08",
+      "story_count": 1
+    },
+    {
+      "month": "2025-07",
+      "story_count": 1
+    },
+    {
+      "month": "2025-06",
+      "story_count": 1
+    },
+    {
+      "month": "2025-05",
+      "story_count": 1
+    },
+    {
+      "month": "2025-04",
+      "story_count": 1
+    },
+    {
+      "month": "2025-03",
+      "story_count": 2
+    },
+    {
+      "month": "2025-02",
+      "story_count": 1
+    },
+    {
+      "month": "2025-01",
+      "story_count": 1
+    },
+    {
+      "month": "2024-12",
+      "story_count": 1
+    }
+  ]
+}
